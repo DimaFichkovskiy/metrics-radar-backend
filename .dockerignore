@@ -1,0 +1,9 @@
+Dockerfile
+README.md
+.git
+.gitignore
+venv
+postgres-data
+redis-data
+docker-compose.yml
+**/__pycache__
